@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "いつもの風景",
+  "base_artist": "斉藤和義",
+  "createdAt": "2026-02-20T12:52:27.124705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつもの風景",
+      "artist": "kousakisatoru",
+      "has_synced": false,
+      "path": "select/01_いつもの風景_kousakisatoru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつもの風景",
+      "artist": "神前暁",
+      "has_synced": false,
+      "path": "select/02_いつもの風景_神前暁.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "そして、いつもの風景",
+      "artist": "kousakisatoru",
+      "has_synced": false,
+      "path": "select/03_そして、いつもの風景_kousakisatoru.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いつもの風景",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/04_いつもの風景_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつもの風景",
+      "artist": "斉藤 和義",
+      "has_synced": false,
+      "path": "select/pl_01_いつもの風景_斉藤_和義.txt"
+    }
+  ]
+}
